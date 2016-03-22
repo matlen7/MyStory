@@ -1,0 +1,4 @@
+<body>
+<p>This is the story of a 'true' legend!</p>
+<img> href"images\reggie.png"</img>
+</body>
